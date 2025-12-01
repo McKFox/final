@@ -6,33 +6,40 @@
     font-style: normal;
 }
 
+.container {
+    width: 900px;
+    margin: 0 auto;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    text-align: center;
+}
+
 .image {
-    background-image: url(../images/sam-smile.png);
     height: 500px;
-    margin-top:430px;
+    margin-bottom: -70px;
 }
 
 .name {
     border-style: solid;
     border-bottom-style: none;
-    font-size: 17px;
-    padding-top: 2px;
-    padding-left: 39px;
-    padding-bottom: 2px;
-    margin-left: 200px;
-    margin-right: 1100px;
+    font-size: 20px;
+    padding-bottom: 9px;
     border-radius: 10px;
-    position:relative;
+    width: 70px;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-left: 10px;
 }
 
 .dialogue {
+font-size: 20px;
 border-style: solid;  
 padding-top: 50px;
 padding-left: 20px;
 padding-bottom: 50px;
-margin-left: 200px;
-margin-right: 200px;
-margin-top: 0px;
 background-color: rgb(0, 0, 0);
 border-radius: 20px;
 text-align: center;

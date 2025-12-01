@@ -22,19 +22,24 @@
     margin-bottom: -70px;
 }
 
-.narration {
-font-size: 20px;
-border-style: solid;  
-padding-top: 50px;
-padding-left: 20px;
-padding-bottom: 50px;
-background-color: rgb(0, 0, 0);
-border-radius: 20px;
-text-align: center;
+.option {
+    border-style: solid;
+    font-size: 20px;
+    color:white;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    margin-top: 250px;
+    width: 70px;
+    text-align: center;
+    font-weight: bold;
 }
 
 .nav a {
  color: rgb(255, 255, 255);
  padding-top: 25px;
  padding-left: 10px;
+ margin-top: 50px;
 }
