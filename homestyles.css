@@ -9,9 +9,15 @@
 
 .start a {
     color: red;
+    font-size: 20px;
 }
 
 .image {
     background-image: url(images/door-closed.png);
-    height: 300px;
+    height: 350px;
+    padding-top: 50px;
+}
+
+h2.small {
+  line-height: 0.3;
 }
