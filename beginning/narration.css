@@ -1,0 +1,27 @@
+.style {
+    background-color: black;
+    color:white;
+    font-family: "adriane", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.narration {
+border-style: solid;  
+padding-top: 50px;
+padding-left: 20px;
+padding-bottom: 50px;
+margin-left: 200px;
+margin-right: 200px;
+margin-top: 450px;
+background-color: rgb(0, 0, 0);
+border-radius: 20px;
+text-align: center;
+}
+
+.nav a {
+    color: rgb(255, 255, 255);
+    padding: 0px 10px;
+  word-wrap: normal;
+  display: inline-block;
+}

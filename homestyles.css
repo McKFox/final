@@ -1,3 +1,17 @@
-.html {
+.home {
     background-color: black;
+    color:white;
+    font-family: "adriane", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.start a {
+    color: red;
+}
+
+.image {
+    background-image: url(images/door-closed.png);
+    height: 300px;
 }
